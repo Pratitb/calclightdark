@@ -16,7 +16,7 @@ body{
     align-items: center;
 }
 .calculator{
-    width: 100%;
+    max-width: 100%;
     position: relative;
     padding: 20px;
     border-radius: 10px;
