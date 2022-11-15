@@ -12,8 +12,17 @@ body{
     min-height: 100vh;
     padding: 0 10px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+.cal_head{
+    font-size: 24px;
+    letter-spacing: 3px;
+    margin: 0 0 20px;
+    text-align: center;
+    text-transform: uppercase;
+    
 }
 .calculator{
     width: 100%;
