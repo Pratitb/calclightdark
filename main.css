@@ -76,6 +76,7 @@ button{
     cursor: pointer;
     border-radius: 50%;
     transition: all 200ms ease;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 button:hover{
     scale: 1.1;
